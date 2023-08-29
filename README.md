@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🔠 Linguagens: Python, JavaScript
+  🔠 Linguagens: Python
 </p>
 
 <p align="left">
