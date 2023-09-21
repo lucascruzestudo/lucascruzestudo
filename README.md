@@ -32,7 +32,7 @@
 
 **Processo de Formação: Trilha de Dados** \
 [**ModalGR**](https://modalgr.com.br/) • Estagiário \
-Linguagens & Tecnologias: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`\
+Linguagens & Tecnologias: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`\
 <br/>
 
 
