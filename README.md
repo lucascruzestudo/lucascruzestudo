@@ -30,7 +30,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
 
-**Processo de Formação: Trilha de Dados** \
+**Estágio em Inovação** \
 [**ModalGR**](https://modalgr.com.br/) • Estagiário \
 Linguagens & Tecnologias: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`\
 <br/>
