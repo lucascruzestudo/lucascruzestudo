@@ -32,7 +32,7 @@
 
 **Estágio em Inovação** \
 [**ModalGR**](https://modalgr.com.br/) • Estagiário \
-Linguagens & Tecnologias: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`\
+Linguagens & Tecnologias: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
 <br/>
 
 
