@@ -28,7 +28,7 @@
 
 ### Meu trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://s3.amazonaws.com/gupy5/production/companies/2319/career/4039/images/2023-03-30_23-09_companyLogoUrl.png"/>](https://modalgr.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
 
 **Processo de Formação: Trilha de Dados** \
 [**ModalGR**](https://modalgr.com.br/) • Estagiário \
