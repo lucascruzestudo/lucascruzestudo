@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá. Me chamo <strong>Lucas Cruz</strong>. Seja bem vindo ao meu perfil!<br>
-  Atualmente estou me formando Analista, Engenheiro e Cientista de dados.
+  Atualmente estou estudando Flutter.
 </p>
 
 <p align="left">
-  🔠 Linguagens: Python
+  🔠 Linguagens: Python, Dart
 </p>
 
 <p align="left">
