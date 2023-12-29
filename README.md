@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔣 Experiência com: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Engenharia de Dados
+  🔣 Experiência com: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Engenharia de Dados; Linux; Power Automate; Socket.io; Bizagi
 </p>
 
 <p align="left">
