@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá. Me chamo <strong>Lucas Cruz</strong>. Seja bem vindo ao meu perfil!<br>
-  Atualmente estou estudando Flutter.
+  Atualmente estou estudando <strong>Flutter</strong>.
 </p>
 
 <p align="left">
