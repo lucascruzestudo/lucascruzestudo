@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔣 SGBDs: MySQL, PostgreSQL, MongoDB
+  🔣 Experiência com: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Engenharia de Dados
 </p>
 
 <p align="left">
