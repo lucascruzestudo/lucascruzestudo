@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🔠 Linguagens: Python, Dart
+  🔠 Linguagens: Python; Dart
 </p>
 
 <p align="left">
