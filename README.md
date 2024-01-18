@@ -2,7 +2,6 @@
 
 <p align="left"> 
   Olá. Me chamo <strong>Lucas Cruz</strong>. Seja bem vindo ao meu perfil!<br>
-  Atualmente estou estudando <strong>C#</strong>.
 </p>
 
 <p align="left">
