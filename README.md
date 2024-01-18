@@ -5,11 +5,17 @@
 </p>
 
 <p align="left">
-  🔠 Programming Languages: Python; Dart; C#
+  🔠 Programming Languages: 
+  - Python; 
+  - Dart; 
+  - C#
 </p>
 
 <p align="left">
-  🕹️ Favorite Games: The Binding of Isaac; Plants Vs Zombies: Garden Warfare 2; Cartoon Network Universe: FusionFall
+  🕹️ Favorite Games: 
+  - The Binding of Isaac; 
+  - Plants Vs Zombies: Garden Warfare 2; 
+  - Cartoon Network Universe: FusionFall
 </p>
 
 ### Current Job
