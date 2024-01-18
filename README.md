@@ -10,10 +10,6 @@
 </p>
 
 <p align="left">
-  🔣 Experiência com: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Engenharia de Dados; Linux; Power Automate; Socket.io; Bizagi; C#
-</p>
-
-<p align="left">
   💌 Entre em contato: ⤵️
 </p>
 
@@ -32,7 +28,7 @@
 
 **Estágio em Inovação** \
 [**ModalGR**](https://modalgr.com.br/) • Estagiário \
-Linguagens & Tecnologias: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
+Linguagens & Tecnologias: `Python`, `C#`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
 <br/>
 
 
