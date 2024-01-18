@@ -8,6 +8,10 @@
   🔠 Programming Languages: Python; Dart; C#
 </p>
 
+<p align="left">
+  🕹️ Favorite Games: The Binding of Isaac; Plants Vs Zombies: Garden Warfare 2; Cartoon Network Universe: FusionFall
+</p>
+
 ### Current Job
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
