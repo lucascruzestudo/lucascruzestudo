@@ -1,30 +1,27 @@
 <img src="https://vera-teknoloji.com/wp-content/uploads/2022/04/63583-visualization-data-illustration-png-image-high-quality.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello. I am <strong>Lucas Cruz</strong>. Welcome to my profile!<br>
+  Hello. My name is <strong>Lucas Cruz</strong>. Welcome to my profile!<br>
+  Currently, I am studying <strong>C#</strong>.
 </p>
 
 <p align="left">
-  🔠 Programming Languages: 
-  - Python; 
-  - Dart; 
-  - C#
+  🔠 Languages: Python; Dart; C#
 </p>
 
 <p align="left">
-  🕹️ Favorite Games: 
-  - The Binding of Isaac; 
-  - Plants Vs Zombies: Garden Warfare 2; 
-  - Cartoon Network Universe: FusionFall
+  🔣 Experience with: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Data Engineering; Linux; Power Automate; Socket.io; Bizagi
 </p>
 
-### Current Job
+
+
+### My Work
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
 
-**Innovation Internship • Mobile Development** \
+**Innovation Intern • Mobile Developer** \
 [**ModalGR**](https://modalgr.com.br/) • Intern \
-Skills: `Python`, `C#`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
+Languages & Technologies: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
 <br/>
 
 <p align="left">
@@ -39,3 +36,5 @@ Skills: `Python`, `C#`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Lear
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
 </p>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/lucasgomescruz) for a more detailed description of my work experience, education, and certifications.
