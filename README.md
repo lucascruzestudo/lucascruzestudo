@@ -25,7 +25,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
 
-**Estágio em Inovação** \
+**Estágio em Inovação - Desenvolvedor Mobile** \
 [**ModalGR**](https://modalgr.com.br/) • Estagiário \
 Linguagens & Tecnologias: `Python`, `C#`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
 <br/>
