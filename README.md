@@ -19,8 +19,8 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.com.br/wp-content/themes/modal/images/logo-patenteado.png"/>](https://modalgr.com.br/)
 
-**Innovation Intern • Mobile Developer** \
-[**ModalGR**](https://modalgr.com.br/) • Intern \
+**Jr. Data Analyst** \
+[**ModalGR**](https://modalgr.com.br/) • Full-Time \
 Languages & Technologies: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
 <br/>
 
