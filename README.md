@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello. My name is <strong>Lucas Cruz</strong>. Welcome to my profile!<br>
-  Currently, I am studying <strong>C#</strong>.
+  Currently, I am studying <strong>Python</strong>.
 </p>
 
 <p align="left">
