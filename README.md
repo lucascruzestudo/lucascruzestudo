@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello. My name is <strong>Lucas Cruz</strong>. Welcome to my profile!<br>
-  Currently, I am studying <strong>Python</strong>.
+  Currently, I am studying <strong>.NET</strong>.
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔣 Experience with: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Data Engineering; Linux; Power Automate; Socket.io; Bizagi
+  🔣 Experience with: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Data Engineering; Linux; Power Automate;
 </p>
 
 
