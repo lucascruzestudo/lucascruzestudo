@@ -19,7 +19,7 @@
 
 **Jr. Data Analyst** \
 [**ModalGR**](https://modalgr.com.br/) • Full-Time \
-Languages & Technologies: `Python`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`, `Flutter`\
+Languages & Technologies: `Python`, `.NET`, `Flutter`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`\
 <br/>
 
 <p align="left">
