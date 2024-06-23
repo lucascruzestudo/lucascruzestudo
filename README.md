@@ -5,15 +5,13 @@
   Currently, I am studying <strong>.NET</strong>.
 </p>
 
-<p align="left">
+<!--<p align="left">
   🔠 Languages: Python; Dart; C#
 </p>
 
 <p align="left">
   🔣 Experience with: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Data Engineering; Linux; Power Automate;
-</p>
-
-
+</p>-->
 
 ### My Work
 
