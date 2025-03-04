@@ -19,7 +19,7 @@
 
 **Jr. Fullstack Developer** \
 [**ModalGR**](https://modalgr.com.br/) • Full-Time \
-Languages & Technologies: `Python`, `.NET`, `Flutter`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`\
+Languages & Technologies: `.NET`, `React`, `Angular`, `Flutter`, `SQL`, `NoSQL`, `Python`, `Power BI`, `Apache Spark`, `Scikit Learn`\
 <br/>
 
 <p align="left">
