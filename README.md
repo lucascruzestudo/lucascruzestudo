@@ -17,7 +17,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.io/wp-content/uploads/2024/02/logo-azul-branco-modalgr.svg#1542"/>](https://modalgr.com.br/)
 
-**Jr. .NET Developer** \
+**Jr. Fullstack Developer** \
 [**ModalGR**](https://modalgr.com.br/) • Full-Time \
 Languages & Technologies: `Python`, `.NET`, `Flutter`, `SQL`, `NoSQL`, `Power BI`, `Apache Spark`, `Scikit Learn`\
 <br/>
