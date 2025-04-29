@@ -5,21 +5,13 @@
   Currently, I am studying <strong>.NET & React</strong>.
 </p>
 
-<!--<p align="left">
-  🔠 Languages: Python; Dart; C#
-</p>
-
-<p align="left">
-  🔣 Experience with: Backend; Mobile; APIs; RPAs; SQL; NoSQL; Web Scraping; Machine Learning; BI; Data Engineering; Linux; Power Automate;
-</p>-->
-
 ### My Work
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQEnXXbSFexUjQ/company-logo_200_200/B4DZY5XlfvHIAM-/0/1744719206825/modalgr_logo?e=1751500800&v=beta&t=6lpGnboAXm7_XeTSWgY_FHQ7YvOd8F1lqAVGdHDngOM"/>](https://mosten.com.br/)
 
 **Jr. Fullstack Developer** \
 [**Mosten**](https://mosten.com/) • Full-Time \
-Languages & Technologies: `.NET`, `React`, `Angular`, `Flutter`, `Python`, `Power BI`\
+Languages & Technologies: `.NET`, `React`, `Angular`, `Flutter`, `Python`\
 <br/>
 
 <p align="left">
