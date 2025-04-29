@@ -1,4 +1,4 @@
-<img src="https://vera-teknoloji.com/wp-content/uploads/2022/04/63583-visualization-data-illustration-png-image-high-quality.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://brainconsulting.info/wp-content/uploads/2023/07/outsrourcing2.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Hello. My name is <strong>Lucas Cruz</strong>. Welcome to my profile!<br>
@@ -15,10 +15,10 @@
 
 ### My Work
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://modalgr.io/wp-content/uploads/2024/02/logo-azul-branco-modalgr.svg#1542"/>](https://modalgr.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQEnXXbSFexUjQ/company-logo_200_200/B4DZY5XlfvHIAM-/0/1744719206825/modalgr_logo?e=1751500800&v=beta&t=6lpGnboAXm7_XeTSWgY_FHQ7YvOd8F1lqAVGdHDngOM"/>](https://mosten.com.br/)
 
 **Jr. Fullstack Developer** \
-[**ModalGR**](https://modalgr.com.br/) • Full-Time \
+[**Mosten**](https://mosten.com/) • Full-Time \
 Languages & Technologies: `.NET`, `React`, `Angular`, `Flutter`, `Python`, `Power BI`\
 <br/>
 
