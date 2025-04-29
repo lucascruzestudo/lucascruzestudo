@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello. My name is <strong>Lucas Cruz</strong>. Welcome to my profile!<br>
-  Currently, I am studying <strong>.NET</strong>.
+  Currently, I am studying <strong>.NET & React</strong>.
 </p>
 
 <!--<p align="left">
