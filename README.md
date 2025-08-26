@@ -7,7 +7,7 @@
 
 ### My Work
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQEnXXbSFexUjQ/company-logo_200_200/B4DZY5XlfvHIAM-/0/1744719206825/modalgr_logo?e=1751500800&v=beta&t=6lpGnboAXm7_XeTSWgY_FHQ7YvOd8F1lqAVGdHDngOM"/>](https://mosten.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mosten.com/wp-content/uploads/2025/04/cropped-mosten-quadrado-1-1-scaled-1-32x32.png"/>](https://mosten.com.br/)
 
 **Jr. Fullstack Developer** \
 [**Mosten**](https://mosten.com/) • Full-Time \
