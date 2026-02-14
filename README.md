@@ -9,7 +9,7 @@
 
 [<img align="left" height="94px" width="94px" alt="" src="https://scontent.fbau3-2.fna.fbcdn.net/v/t39.30808-6/490327397_1279176990606317_5114977136134663835_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zB34Y5r5oT0Q7kNvwE9cS-q&_nc_oc=AdlZzJR8JZtFfWtozdc-ofvofdivGfC8HvFDVQpDANwPRHDk_Asqulca6ZL9pKxWIsU&_nc_zt=23&_nc_ht=scontent.fbau3-2.fna&_nc_gid=9kMptpgrtjNHKSAixfi7_Q&oh=00_AfvD1UkvhuUwzsg2TzuBznbkjdUN6XwMgpqbUt6hEkNkyg&oe=6996929B"/>](https://mosten.com.br/)
 
-**Jr. Fullstack Developer** \
+**Fullstack Developer** \
 [**Mosten**](https://mosten.com/) • Full-Time \
 Languages & Technologies: `.NET`, `React`, `Angular`, `Flutter`, `Python`\
 <br/>
